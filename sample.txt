@@ -1,0 +1,25 @@
+div#info
+	div.test{q}
+		{permalink}
+		{links}
+		div/.test2{content}
+header
+	div
+		h1{heading|subheading}
+		nav{contents}
+	picture#main-picture
+		source[src=""]
+		img[src="src" width="800" height="200" alt="Blossoms"]
+main
+	section
+		{article}
+		p#id:
+		p.class?what
+		p#id.class
+	aside
+		h1{heading}
+#		{search}
+		{categories}
+		{bookmarks}
+div#footer
+	footer
